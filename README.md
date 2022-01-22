@@ -7,5 +7,5 @@
 - ⚡ About me: professional swimmer, amateur long-distance runner, music lover and avid movie fan
 - 📫 How to reach me: artyom556@mail.ru
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtyomSamsonov)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyomSamsonov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtyomSamsonov&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyomSamsonov&layout=compact)](https://github.com/ArtyomSamsonov/github-readme-stats)
