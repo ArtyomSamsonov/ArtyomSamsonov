@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something interesting!
 - 💻 My tech stack is HTML, CSS, JavaScript
-- 🌱 Right now I'm learning Node.JS, Typescript, React + Redux, Next.JS, Node.JS, SQL
+- 🌱 Right now I'm learning Node.JS, Typescript, React + Redux, Next.JS, Node.JS, Python, SQL
 - 💬 I speak Russian and little bit of English
 - ⚡ About me: professional swimmer, amateur long-distance runner, music lover and avid movie fan
 - 📫 How to reach me: artyom556@mail.ru
